@@ -3,7 +3,7 @@
   "name": "google-docs-agent-by-nova",
   "displayName": "Google Docs Agent by Nova (CIVAI)",
   "version": "1.0.0",
-  "description": "I do everything related to Google Docs",
+  "description": "Create, read, rewrite and delete Google Docs, with built-in web research to draft their content.",
   "author": {
     "name": "CIVAI TECHNOLOGIES",
     "email": "nifemialpine@nova.civai.co",

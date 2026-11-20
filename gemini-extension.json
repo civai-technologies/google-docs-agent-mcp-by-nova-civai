@@ -1,7 +1,7 @@
 {
   "name": "google-docs-agent",
   "version": "1.0.0",
-  "description": "I do everything related to Google Docs",
+  "description": "Create, read, rewrite and delete Google Docs, with built-in web research to draft their content.",
   "mcpServers": {
     "google-docs-agent-by-nova": {
       "httpUrl": "https://nova.civai.co/mcp/agents/google-docs-agent",
